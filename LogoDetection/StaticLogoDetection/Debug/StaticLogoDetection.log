@@ -1,0 +1,13 @@
+﻿Build started 10/21/2015 7:04:50 PM.
+     1>Project "C:\Users\Alireza\Documents\Visual Studio 2013\Projects\StaticLogoDetection\StaticLogoDetection\StaticLogoDetection.vcxproj" on node 2 (Clean target(s)).
+     1>CudaClean:
+         cmd.exe /C "C:\Users\Alireza\AppData\Local\Temp\tmp47830c96b39445199d2fd25f5fc7cc98.cmd"
+         "C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v7.5\bin\nvcc.exe" -ccbin "C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin"  -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v7.5\include" -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v7.5\include"  -G   --keep-dir Debug -maxrregcount=0  --machine 32 --compile   -g   -DWIN32 -D_DEBUG -D_CONSOLE -D_MBCS -Xcompiler "/EHsc /W3 /nologo /Od /Zi /RTC1 /MDd " -o Debug\kernel.cu.obj "C:\Users\Alireza\Documents\Visual Studio 2013\Projects\StaticLogoDetection\StaticLogoDetection\kernel.cu" -clean
+         
+         C:\Users\Alireza\Documents\Visual Studio 2013\Projects\StaticLogoDetection\StaticLogoDetection>"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v7.5\bin\nvcc.exe" -ccbin "C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin"  -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v7.5\include" -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v7.5\include"  -G   --keep-dir Debug -maxrregcount=0  --machine 32 --compile   -g   -DWIN32 -D_DEBUG -D_CONSOLE -D_MBCS -Xcompiler "/EHsc /W3 /nologo /Od /Zi /RTC1 /MDd " -o Debug\kernel.cu.obj "C:\Users\Alireza\Documents\Visual Studio 2013\Projects\StaticLogoDetection\StaticLogoDetection\kernel.cu" -clean 
+         kernel.cu
+     1>Done Building Project "C:\Users\Alireza\Documents\Visual Studio 2013\Projects\StaticLogoDetection\StaticLogoDetection\StaticLogoDetection.vcxproj" (Clean target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.68
